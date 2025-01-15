@@ -34,7 +34,7 @@
 
 
 
-[文件解說](blog/index.html)
+[文件解說](doc/index.html)
 
 ![101圖](pic/101.jpg)</a>
 

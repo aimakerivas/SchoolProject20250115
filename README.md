@@ -36,7 +36,7 @@
 
 [文件解說](doc/index.html)
 
-![iCon圖](pic/bug-16-icon.png)</a>
+![iCon圖](icon/bug-16-icon.png)</a>
 
 <ul type="disk">
 <li>台北捷運板南線</li>
